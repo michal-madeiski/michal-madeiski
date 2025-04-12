@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋Hello and welcome to my GitHub profile!
+__🧑‍💻About me:__
+- programming enjoyer
+- math passionate
+- student at Wroclaw University of Science and Technology
 
-<!--
-**michal-madeiski/michal-madeiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__🎓About my studies:__
+- faculty: Information and Communication Technology
+- field of study: Applied Computer Science
+- current stage of studies: 2nd year, 4th semester
+  
+<br>
 
-Here are some ideas to get you started:
+__🛠️Currently working on:__
+- https://github.com/michal-madeiski/studies-python-script-languages
+- https://github.com/michal-madeiski/studies-python-systems-analysis-and-decision-support-methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__⏳Currently learning:__
+- HTML
+- CSS
