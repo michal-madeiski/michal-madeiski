@@ -1,7 +1,7 @@
 ## 👋Hello and welcome to my GitHub profile!
 __🧑‍💻About me:__
 - programming enjoyer
-- math passionate (visit my website: https://matematyczne-korki.pl/)
+- math passionate (visit my website -> [matematyczne-korki.pl](https://matematyczne-korki.pl/))
 - student at Wroclaw University of Science and Technology
 
 __🎓About my studies:__
