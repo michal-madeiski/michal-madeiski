@@ -12,7 +12,7 @@ __🎓About my studies:__
 <br>
 
 __🛠️Currently working on:__
-- [https://github.com/michal-madeiski/studies-python-script-languages](https://github.com/michal-madeiski/myprojects-html-and-css-matematyczne-korki)
+- https://github.com/michal-madeiski/myprojects-html-and-css-matematyczne-korki
 
 __⏳Currently learning:__
 - JavaScript
