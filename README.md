@@ -12,7 +12,8 @@ __🎓About my studies:__
 <br>
 
 __🛠️Currently working on:__
-- https://github.com/michal-madeiski/myprojects-html-and-css-matematyczne-korki
+- https://github.com/michal-madeiski/studies-developing-web-applications-with-dotnet
+- https://github.com/michal-madeiski/studies-introduction-to-iot
 
 __⏳Currently learning:__
 - JavaScript
