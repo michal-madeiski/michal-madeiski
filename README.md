@@ -8,12 +8,18 @@ __🎓About my studies:__
 - faculty: Information and Communication Technology
 - field of study: Applied Computer Science
 - current stage of studies: 3rd year, 5th semester
-  
+
 <br>
 
-__🛠️Currently working on:__
+__🛠️Tech stack:__
+- .NET / C#
+- HTML & CSS
+- JavaScript
+- Java
+- Python
+- PostgreSQL
+
+__⏳Currently working on:__
 - https://github.com/michal-madeiski/studies-developing-web-applications-with-dotnet
 - https://github.com/michal-madeiski/studies-introduction-to-iot
-
-__⏳Currently learning:__
-- JavaScript
+- https://github.com/michal-madeiski/PBD-cinema-database
