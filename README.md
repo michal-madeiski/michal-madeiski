@@ -13,11 +13,10 @@ __🎓About my studies:__
 <br>
 
 __🛠️Tech stack:__
+- Python
 - .NET / C#
 - HTML & CSS
 - JavaScript
-- Java
-- Python
 - PostgreSQL
 
 __⏳Currently working on:__
