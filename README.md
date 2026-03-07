@@ -20,5 +20,5 @@ __🛠️Tech stack:__
 - PostgreSQL
 
 __⏳Currently working on:__
-- [https://github.com/michal-madeiski/studies-developing-web-applications-with-dotnet](https://github.com/michal-madeiski/studies-artificial-intelligence)
-- [https://github.com/michal-madeiski/studies-introduction-to-iot](https://github.com/michal-madeiski/studies-advanced-web-technologies)
+- https://github.com/michal-madeiski/studies-advanced-web-technologies
+- https://github.com/michal-madeiski/studies-artificial-intelligence
