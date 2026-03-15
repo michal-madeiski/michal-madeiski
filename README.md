@@ -22,3 +22,4 @@ __🛠️Tech stack:__
 __⏳Currently working on:__
 - https://github.com/michal-madeiski/studies-advanced-web-technologies
 - https://github.com/michal-madeiski/studies-artificial-intelligence
+- https://github.com/michal-madeiski/studies-cloud-programming
