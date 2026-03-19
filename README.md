@@ -16,7 +16,6 @@ __🛠️Tech stack:__
 - Python
 - .NET / C#
 - HTML & CSS
-- JavaScript
 - PostgreSQL
 
 __⏳Currently working on:__
