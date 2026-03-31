@@ -7,7 +7,7 @@ __🧑‍💻About me:__
 __🎓About my studies:__
 - faculty: Information and Communication Technology
 - field of study: Applied Computer Science
-- current stage of studies: 3rd year, 5th semester
+- current stage of studies: 3rd year, 6th semester
 
 <br>
 
