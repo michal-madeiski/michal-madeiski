@@ -3,7 +3,6 @@ __🧑‍💻About me:__
 - programming enjoyer
 - math passionate (visit my tutoring website -> [matematyczne-korki.pl](https://matematyczne-korki.pl/))
 - student at Wroclaw University of Science and Technology
-- member of the [KN Alive](https://github.com/KN-Alive)
 
 __🎓About my studies:__
 - faculty: Information and Communication Technology
