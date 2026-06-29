@@ -13,12 +13,11 @@ __🎓About my studies:__
 
 __🛠️Tech stack:__
 - Python
+- Snowflake
+- PostgreSQL
+- AWS
 - .NET / C#
 - HTML & CSS
-- PostgreSQL
 
 __⏳Currently working on:__
-- https://github.com/michal-madeiski/studies-advanced-web-technologies
-- https://github.com/michal-madeiski/studies-artificial-intelligence
-- https://github.com/michal-madeiski/studies-cloud-programming
 - https://github.com/michal-madeiski/urbanfix
