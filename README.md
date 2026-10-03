@@ -1,13 +1,12 @@
 ## 👋Hello and welcome to my GitHub profile!
 __🧑‍💻About me:__
 - programming enjoyer
-- math passionate (visit my tutoring website -> [matematyczne-korki.pl](https://matematyczne-korki.pl/))
 - student at Wroclaw University of Science and Technology
 
 __🎓About my studies:__
 - faculty: Information and Communication Technology
 - field of study: Applied Computer Science
-- current stage of studies: 3rd year, 6th semester
+- current stage of studies: 4rd year, 7th semester
 
 <br>
 
